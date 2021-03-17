@@ -1,0 +1,29 @@
+{
+  "name": "nodethumbnailcreator",
+  "version": "1.0.0",
+  "description": "slintel - node server for creating thumbnail out of uploaded image",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrishabhk/react-thumbnail-creator.git"
+  },
+  "keywords": [
+    "slintel",
+    "image",
+    "thumbnail"
+  ],
+  "author": "Rishabh Joling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrishabhk/react-thumbnail-creator/issues"
+  },
+  "homepage": "https://github.com/jrishabhk/react-thumbnail-creator#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
